@@ -1,0 +1,7 @@
+languageCode = "en-gb"
+title = "ojmason"
+baseURL = "https://ojmason.github.io/website/"
+theme = "cocoa-eh"
+[params]
+	dateform = "Mon, Jan 2, 2006"
+	logofile = "/img/Self.jpg"
